@@ -1,0 +1,9 @@
+
+# Frontend dependencies
+frontend/node_modules/
+frontend/tsconfig.tsbuildinfo
+
+# Python caches
+__pycache__/
+*/__pycache__/
+*.pyc
