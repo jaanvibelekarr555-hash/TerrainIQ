@@ -1,0 +1,5 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+numpy==1.26.4
+open3d==0.20.0
+plotly==7.1.0
